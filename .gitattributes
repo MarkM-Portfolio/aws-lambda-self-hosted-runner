@@ -1,0 +1,25 @@
+*.0_x5 linguist-language=0_x5 linguist-vendored=false
+*.12 linguist-language=12 linguist-vendored=false
+*.2_x5 linguist-language=2_x5 linguist-vendored=false
+*.cfg linguist-language=Config File linguist-vendored=false
+*.csh linguist-language=Csh linguist-vendored=false
+*.exe linguist-language=Exe linguist-vendored=false
+*.fish linguist-language=Fish linguist-vendored=false
+*.gitattributes linguist-language=Git linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.gitkeep linguist-language=Gitkeep linguist-vendored=false
+*.hcl linguist-language=Hcl linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.pem linguist-language=PEM Key linguist-vendored=false
+*.ps1 linguist-language=Powershell linguist-vendored=false
+*.pub linguist-language=Pub linguist-vendored=false
+*.py linguist-language=Python linguist-vendored=false
+*.pyc linguist-language=Pyc linguist-vendored=false
+*.sh linguist-language=Bash linguist-vendored=false
+*.tf linguist-language=Terraform linguist-vendored=false
+*.tfstate linguist-language=Terraform State File linguist-vendored=false
+*.txt linguist-language=Text File linguist-vendored=false
+*.typed linguist-language=Typed linguist-vendored=false
+*.zip linguist-language=Zip linguist-vendored=false
+aws-lambda-self-hosted-runner/lambda-layer/bin/terraform filter=lfs diff=lfs merge=lfs -text
+aws-lambda-self-hosted-runner/lambda-layer/bin/.terraform/providers/registry.terraform.io/hashicorp/aws/4.9.0/darwin_arm64/terraform-provider-aws_v4.9.0_x5 filter=lfs diff=lfs merge=lfs -text
